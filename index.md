@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Sébastien Wieckowski, Ph.D. -- Resume
 
 Immunologist, age 42, French/EU citizenship, married and one child
