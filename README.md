@@ -2,7 +2,7 @@
 
 Immunologist, age 42, French/EU citizenship, married and one child
 
-<embed src="https://sbwiecko.github.io/my_resume/resume_visual_84.pdf" type="application/pdf" />
+_See also a one-page visual resume PDF [here](https://sbwiecko.github.io/my_resume/resume_visual_84.pdf)_
 
 ## Summary
 
