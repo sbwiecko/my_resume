@@ -1,4 +1,6 @@
-# Research Experience
+# Full curriculum vitæ
+
+## Research Experience
 
 * **Director Preclinical Development, Worg Pharmaceuticals (Nov 2021 -- present)**
   * Development of the preclinical program for our drug candidates
@@ -29,16 +31,16 @@
 * **IT support / Responsible for the hardware park of the research unit (Jul 2004 −- May 2007)**
   * Computer assistance to the users (software installation, workshops, hardware fix, basic network troubleshooting), and deploying/optimizing of new hardware (computers and instruments). Immunologie et Chimie Thérapeutiques (Prof. S. Müller), Institut de Biologie Moléculaire et Cellulaire (IBMC), CNRS UPR 9021, Strasbourg, France.
 
-# Education and Degrees
+## Education and Degrees
 
 * **Ph.D. in Immunology**, Université Strasbourg I, France, 2007.
 * **Master Degree in Health Biology** (DEA Biologie-Santé), Université Montpellier II, France, 2003.
 * **M.Sc. (Maîtrise) in Biochemistry + Organic Chemistry**, Université Montpellier II, France, 2002.
 * **B.Sc. (Licence) in Biochemistry** _Summa Cum Laude_, ranked 1st/112, Université Montpellier II, France, 2001.
 
-# Publications, Patents, Communications and Teaching
+## Publications, Patents, Communications and Teaching
 
-## [Publications](https://www.ncbi.nlm.nih.gov/pubmed/?term=sebastien+wieckowski)
+### [Publications](https://www.ncbi.nlm.nih.gov/pubmed/?term=sebastien+wieckowski)
 
 24. **Wieckowski S**, Avenal C, Orjalo AV, Gygax D, and Cymer F.
 Toward a Better Understanding of Bioassays for the Development of Biopharmaceuticals by Exploring the Structure-Antibody-Dependent Cellular Cytotoxicity Relationship in Human Primary Cells. Front Immunol 2020; 11: 552596.
@@ -89,7 +91,7 @@ Targeted delivery of amphotericin B to cells by using functionalized carbon nano
 1. Young LE, Schnieke AE, McCreath KJ, **Wieckowski S**, Konfortova G, Fernandes K, Ptak G, Kind AJ, Wilmut I, Loi P, Feil R.
 Conservation of IGF2-H19 and IGF2R imprinting in sheep: effects of somatic cell nuclear transfer. Mech Dev. 2003; 120:1433-1442.
 
-## Patents
+### Patents
 
 2. Guichard G, Fournel S, Trouche N, **Wieckowski S**.
 _Novel multimeric molecules, a process for preparing the same and the use thereof for manufacturing medical drugs._
@@ -102,7 +104,7 @@ _Novel multimeric CD40 ligands, method for preparing same and use thereof for pr
    * International Application PCT/FR2005/03146 (15/12/2005)
    * International Publication WO/2006/064133 (22/06/2006)
 
-## Communications (selection)
+### Communications (selection)
 
 * **Wieckowski S**, Avenal C, Orjalo AV, Gygax D, and Cymer F.
 A better understanding of bioassays -- comparison of binding assays, reporter gene assays and primary cell-based assays of glycoengineered monoclonal antibodies. BEBPA's Virtual 2021 EUR Bioassay Conference. Oral presentation.
@@ -133,7 +135,7 @@ Mimes fonctionnels de CD40L et applications thérapeutiques. Rencontres mensuell
 * **Wieckowski S**, Trouche N, Chaloin O, Bianco A, Hoebeke J, Dumortier H, Guichard G, Fournel S.
 A synthetic multimeric ligand of CD40 is able to mimic effector functions of the natural CD40L. Congrès Annuel de la Société Française d'Immunologie, Paris (France), 2004. Poster P50.
 
-## Congress Abstracts
+### Congress Abstracts
 
 7. **Wieckowski S**, Podola L, Smetak H, Nugues AL, Slos P, Berkane AA, Wei M, Breiner K, Meichle A, Beckhove P, Mansour M, Lubenau H.
 Modulating T cell immunity in tumors by targeting PD-L1 and neoantigens using a live attenuated oral Salmonella platform. Cancer Res. 2018; 78(13 Supplement):733-733.
@@ -150,16 +152,16 @@ Non-clinical safety and antitumor efficacy of live attenuated Salmonella typhimu
 1. Guichard G, Trouche N, **Wieckowski S**, Sun W, Chaloin O, Bianco A, Hoebeke J, Schneider P, Fournel S.
 Rationally designed multivalent architectures for mimicking homotrimers of CD40L, a member of the TNF superfamily. Peptides for Youth: The Proceedings of the 20th American Peptide Symposium, Montreal (Canada), 2007. Adv Exp Med Biol. 2009; 611:355-357.
 
-## Peer-reviewing
+### Peer-reviewing
 
 Active reviewer in Journal for ImmunoTherapy of Cancer, Cancer Immunology Immunotherapy, Cancers, Vaccines, Biomedicines, Immuno, International Journal of Molecular Sciences, and Biomolecules. See also [my ORCID record](https://orcid.org/0000-0001-8121-4446).
 
-## Teaching
+### Teaching
 
 * Course Assistant in Immunology (Travaux Pratiques) for B.Sc. Biochemistry, Université Strasbourg I (2004 − 2007; 60 hours).
 * Teaching Assistant in Immunobiology (Travaux Dirigés) for First College Degree in Biology, Université Strasbourg I (2005 − 2006; 30 hours).
 
-## Fellowships and Grants (Applicant)
+### Fellowships and Grants (Applicant)
 
 * Subvention de fin de thèse de la FRM, 1-year fellowship (15,000 €), 2007
 * BSI Travel Award (£700), 2007
@@ -169,7 +171,7 @@ Active reviewer in Journal for ImmunoTherapy of Cancer, Cancer Immunology Immuno
 * Roche Postdoc Fellowship Program extension 1 year (140,000 CHF), 2013
 * Freiwillige Akademische Gesellschaft ½ year (53,000 CHF), 2013
 
-# Technical skills
+## Technical skills
 
 * **Immunology** -- Manipulation of human blood (PBMC isolation, generation of DCs, preparation of serum), purification of T and NK cells and monocytes from animal tissues (Ficoll, magnetic sorting), establishment of human T and B cell clones after FACS (Vantage, Aria), differentiation of macrophages, imaging flow cytometry (Amnis), 51Cr-release assay and BATDA (CTL, tumor recognition), engineering of human CD8+ T-cells with lentiviral vectors, TCR binding kinetics measured with peptide/MHC tetramers, production and purification of antibodies (hybridoma, serum, ascites), ELISA (direct, indirect, sandwich, inhibition), cytokine ELISpot (Bioreader 5000) and multiplex bead-based immunoassays.
 * **Cell biology** -- Multicolor flow cytometry including the BD LSR I, II and Fortessa, Accuri C6, FACScan, Calibur, Array, and the Beckman Coulter CyAn and Gallios systems, intracellular staining (cytokines, cell signaling, calcium), transient and stable transfection, RNAi, proliferation (3H-thymidine, CFSE) and cell cycle analysis (propidium iodide), measurement of apoptosis (Annexin V/PI, DiOC6(3), TUNEL), culture of adherent and non-adherent cells, 3D-culture, epifluorescence and confocal microscopy, time-lapse video microscopy, live imaging, fluorescent IHC/H&E staining of frozen tissue sections, AAV biology.
@@ -177,46 +179,53 @@ Active reviewer in Journal for ImmunoTherapy of Cancer, Cancer Immunology Immuno
 * **Molecular biology** -- (sc)RNA-Seq, DNA/RNA isolation, various PCR techniques, RT-PCR, single cell gene expression analysis, TCR spectratyping, DNA sequencing, droplet digital PCR, standard molecular cloning techniques, preparation of lentiviral particles, expression and purification of recombinant proteins in bacteria and insect cell systems, Southern blotting, Northern blotting, functional promoter analysis (promoter-reporter construct, site-directed mutagenesis, DNase footprinting assay), whole genome microarray (Agilent).
 * **Biochemistry** -- Surface plasmon resonance (BIAcore 3000), dynamic light scattering (Dynapro), SDS-PAGE, Western/dot blotting, 2D gel-electrophoresis, size exclusion chromatography, basic experience in organic chemistry (solid-phase peptide synthesis, mass spectroscopy).
 
-# Professional Development and Training (Certificates)
+## Professional Development and Training (Certificates)
 
-* Machine learning in python with scikit-learn. INRIA, France (2021).
-* Introduction to statistics with Python. Swiss Institute of Bioinformatics, Switzerland (2021).
-* Docker and Singularity for reproducible research. Swiss Institute of Bioinformatics, Switzerland (2021).
-* Version Control with Git. Swiss Institute of Bioinformatics, Switzerland (2021).
-* Transcriptomics Analysis. Swiss Institute of Bioinformatics, Switzerland (2021).
-* RNAseq Data Analysis, full semester (CAMB714). PennVet, University of Pennsylvania, USA (2020).
-* SQL Fundamentals Track. DataCamp, Belgium (2020).
-* Bio-informatique pour la Génomique Médicale. CEA, Université de Paris, France (2020).
-* IBM Data Science (Methodology, SQL, Visualization, Machine Learning). IBM, USA (2019-2020).
-* Mathematics for Machine Learning. Imperial College London, UK (2019).
-* Using Python for Research. Harvard University, USA (2018).
-* Introduction à la statistique avec R. Faculté de Médecine, Université Paris Sud, France (2018).
-* Reproducible Research: Methodological Principles for Transparent Science. INRIA, France (2018).
-* Data Scientist with Python Career Track. DataCamp, Belgium (2017-2018).
-* SME Instrument Applicants Training. Euresearch, Bern, Switzerland (2018).
-* Shell Bash (5 weeks). Université de la Réunion, France (2018).
-* Python 3, from basics to advanced concepts (9 weeks). Université Côte d'Azur, France (2018).
-* Human histology (6 weeks). Université de Médecine de Liège, Belgium (2017).
-* Python for Data Science and Machine Learning Bootcamp (12 weeks). Udemy (2017).
-* Bioinformatics: Genomes and Algorithms. INRIA, France (2017).
-* Education and Training of Persons Conducting Animal Experiments (LTK Module 2). University of Zurich, Switzerland (2012). Accreditation as Study Director (Kantonale Tierschutzfachstelle, Veterinäramt Basel-Stadt).
-* Animal Experimentation and Small Animal Surgery (mouse and rat). Université Strasbourg I, France (2007).
-* Adding Value to Skills - A New Chapter in the Thesis. Association Bernard Gregory, Strasbourg, France (2006).
-* Fluorescence and Compensation in Multicolor Cytometry. Association Française de Cytométrie, Paris, France (2005).
-* Proteomics. Institut de Biologie Moléculaire et Cellulaire, Strasbourg, France (2005).
-* Confocal Microscopy. Institut de Biologie Moléculaire des Plantes, Strasbourg, France (2004).
-* Pain in Animals. Institut de Physiologie et de Chimie Biologique, Strasbourg, France (2004).
+* **Machine learning in python** with scikit-learn. INRIA, France (2021).
+* Introduction to **statistics with Python**. Swiss Institute of Bioinformatics, Switzerland (2021).
+* **Docker and Singularity** for reproducible research. Swiss Institute of Bioinformatics, Switzerland (2021).
+* Version Control with **Git**. Swiss Institute of Bioinformatics, Switzerland (2021).
+* **Transcriptomics Analysis**. Swiss Institute of Bioinformatics, Switzerland (2021).
+* **(sc)RNAseq Data Analysis**, _full semester (CAMB714)_. PennVet, University of Pennsylvania, USA (2020).
+* **SQL** Fundamentals Track. DataCamp, Belgium (2020).
+* Bio-informatique pour la **Génomique Médicale**. CEA, Université de Paris, France (2020).
+* **IBM Data Science** (Methodology, SQL, Visualization, Machine Learning). IBM, USA (2019-2020).
+* **Mathematics for Machine Learning**. Imperial College London, UK (2019).
+* Using **Python for Research**. Harvard University, USA (2018).
+* Introduction à la **statistique avec R**. Faculté de Médecine, Université Paris Sud, France (2018).
+* **Reproducible Research**: Methodological Principles for Transparent Science. INRIA, France (2018).
+* **Data Scientist with Python** Career Track. DataCamp, Belgium (2017-2018).
+* **SME Instrument Applicants** Training. Euresearch, Bern, Switzerland (2018).
+* **Shell Bash**. Université de la Réunion, France (2018).
+* **Python 3**, from basics to advanced concepts (9 weeks). Université Côte d'Azur, France (2018).
+* **Human histology** (6 weeks). Université de Médecine de Liège, Belgium (2017).
+* **Python for Data Science and Machine Learning** Bootcamp (12 weeks). Udemy (2017).
+* **Bioinformatics**: Genomes and Algorithms. INRIA, France (2017).
+* **LTK Module 2** -- Education and Training of Persons Conducting Animal Experiments. University of Zurich, Switzerland (2012). Accreditation as Study Director (Kantonale Tierschutzfachstelle, Veterinäramt Basel-Stadt).
+* **Animal Experimentation and Small Animal Surgery** (mouse and rat). Université Strasbourg I, France (2007).
+* Fluorescence and Compensation in **Multicolor Cytometry**. Association Française de Cytométrie, Paris, France (2005).
+* **Proteomics**. Institut de Biologie Moléculaire et Cellulaire, Strasbourg, France (2005).
+* **Confocal Microscopy**. Institut de Biologie Moléculaire des Plantes, Strasbourg, France (2004).
+* **Pain in Animals**. Institut de Physiologie et de Chimie Biologique, Strasbourg, France (2004).
 
-# Computer skills, Languages and Leisure activities
+## Computer skills
 
-* Excellent knowledge of Windows up to version 10 and Linux, including Powershell and Bash shells incl. WSL2.
-* Computer-savvy with strong programming capabilities (Python 3, R, C++, Julia, BASIC). SQL and noSQL.
-* Data analysis and visualization with Python (NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn), and R (RStudio). Visual Studio Code, Git, Docker.
-* Collaborative/interactive working and presentations with Jupyter notebook, Markdown, Dash and GitLab.
-* All Office (Word, Excel with VBA, PowerPoint, Access with SQL, OneNote, Microsoft Teams, SharePoint etc);
-* specialized (Photoshop, Prism, FlowJo, FCS Express, DIVA, Kaluza, GeneSpring, Fiji (ImageJ), Zotero, Clone Manager etc.);
-* bioinformatics: online tools and databases, R and Python libraries incl. Bioconductor and biopython.
-* openBIS digital notebook, data management and inventory management.
-* French, native. English, full professional proficiency. German, elementary proficiency (learned in high school and currently updating). Polish, elementary proficiency.
-* Solid knowledges/self-educated in electronics, including basics and integrated circuits, digital electronics, microcontrollers and microprocessors (Arduino and Raspberry Pi), setup of a web app stack (Flask, ngnix), sensors, etc.
-* When I do not play with my kid, I mostly focus on DIY and gardening, running 10-21.1K, tennis, DJing (electronic music) and hiking. Having fun as much as possible.
+* Excellent knowledge of **Microsoft Windows** up to version 11 and **Linux**, including **Powershell and Bash** shells, e.g., WSL2.
+* Computer-savvy with strong programming capabilities (**Python 3, R**, C++, Julia, BASIC). **SQL** and noSQL.
+* **Data analysis and visualization** with Python (NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn), and **R (RStudio)**; Visual Studio Code, Git, Docker.
+* Collaborative/interactive working and presentations with **Jupyter notebook, Markdown, Dash** and GitLab.
+* **Advanced Micrsoft Office**, i.e., Word, Excel with VBA and Python, PowerPoint, Access with SQL, OneNote, Teams, and SharePoint.
+* Specialized tools, e.g., Photoshop, Prism, FlowJo, FCS Express, DIVA, Kaluza, GeneSpring, Fiji (ImageJ), Zotero, Clone Manager etc.
+* **Bioinformatics**, i.e., online tools and databases, R and Python libraries incl. Bioconductor and biopython.
+* **openBIS** digital notebook, and other data management, labnotebook and inventory management systems
+
+## Languages
+  * **French**, native
+  * **English**, full professional proficiency
+  * **German**, elementary proficiency (learned in high school)
+  * **Polish**, elementary proficiency
+
+## Others
+
+* Solid knowledges/self-educated in **electronics**, including basics and integrated circuits, digital electronics, microcontrollers and microprocessors (Arduino and Raspberry Pi), setup of a web app stack (Flask, ngnix), databases for recording data from various sensors, etc.
+* When I do not play with my kid, I mostly focus on DIY and gardening, **running 10-21.1K**, tennis, DJing (electronic music) and hiking.
