@@ -1,9 +1,9 @@
 # Site settings
-title: "Sébastien Wieckowski, Ph.D. -- Resume"
+title: "Sébastien Wieckowski, Ph.D."
 author:
   name: "Sébastien Wieckowski"
   email: sbwiecko@gmail.com
-description: "GH-Page of my resume/CV"
+description: "Full resume"
 
 # Build settings
 plugins:
